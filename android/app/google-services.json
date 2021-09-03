@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327352709654",
+    "firebase_url": "https://mobiance-59770.firebaseio.com",
+    "project_id": "mobiance-59770",
+    "storage_bucket": "mobiance-59770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327352709654:android:8eebcf2b2544ea58003b37",
+        "android_client_info": {
+          "package_name": "br.com.zetadev.mobiance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327352709654-m7s0pe4ek4kp56pfn1pbnkcvtdfilnl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.zetadev.mobiance",
+            "certificate_hash": "72e41de8b6a03d190e659f870a41e7b1d7de3809"
+          }
+        },
+        {
+          "client_id": "327352709654-q3pef59i7u0if1q0q9ae0612qfka2tqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAubM4ud9Y956lvFQYb293ZanAeR4hi5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327352709654-q3pef59i7u0if1q0q9ae0612qfka2tqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
